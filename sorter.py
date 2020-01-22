@@ -11,6 +11,7 @@ for idx in x:
     else:
         names.append(name)
 # make new directorys accordingly
+# her er kommentar
 for i in names:
     os.mkdir("./%s/" % i)
 
